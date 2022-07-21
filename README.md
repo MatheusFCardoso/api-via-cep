@@ -14,7 +14,7 @@
  
  </div>
  
- <a href='https://matheusfcardoso.github.io/api-via-cep/'>Link da aplicação hospedado no GitHub Pages</a>
+ <a href='https://matheusfcardoso.github.io/api-via-cep/'>Link da aplicação hospedada no GitHub Pages</a>
  
  <div style="display: flex" align="center" >
 
